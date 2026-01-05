@@ -70,7 +70,7 @@ VALUES (
 );
 ```
 # Pejelasan dan Screenshot Program
-## Tampilan dekstop
+## Tampilan dekstop/Web
 
 ![alt text](image.png)
 
@@ -119,6 +119,6 @@ VALUES (
 
 ![alt text](image-8.png)
 
-* Untuk halaman antarmuka pada mobile yang membedakan dari versi Desktop hanya bagian menu nav header menggunakan menu burger, selebihnya sama fungsinya dengan versi web/dekstop nya.
+* Untuk halaman antarmuka pada mobile yang membedakan dari versi Desktop hanya bagian menu nav header menggunakan menu burger, selebihnya sama fungsinya dengan versi web/dekstop nya dan hanya bagian tata letak dan layout yang disesuaikan.
 
 ![alt text](image-12.png)    ![alt text](image-9.png)    ![alt text](image-10.png)   ![alt text](image-11.png)

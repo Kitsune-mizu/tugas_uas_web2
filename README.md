@@ -1,11 +1,15 @@
 # Penjelasan Program web untuk Tugas UAS
 ```
-Nama : Priya Fawaz Zaidan Khoir
-NIM  : 312410216
-Kelas: TI.24.A2
+PRIYA FAWAZ ZAIDAN KHOIR (TI.24.A2)
+NIM 			: 312410216
+Matkul 		    : Pemrograman Web 1 UAS
+Dosen Pengampu 	: Agung Nugroho, S.Kom., M.Kom.
+
 ```
 ## - Link Revositoty GitHub (https://github.com/Kitsune-mizu/tugas_uas_web1)
-## - Link Youtube (https://github.com/Kitsune-mizu/tugas_uas_web1)
+
+[![Tonton Video](https://img.youtube.com/vi/l4vPtvKf5o8/hqdefault.jpg)](https://youtu.be/l4vPtvKf5o8)
+## - Link Youtube (https://youtu.be/l4vPtvKf5o8)
 # Struktur Program
 ```
 TUGAS_UAS_WEB1/
